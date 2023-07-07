@@ -2,7 +2,7 @@
 # SentryWire Field Manual
 ### Section Index
 1. [**Common KQL Search Syntax**](#common-kql-searches)
-1. [**Investigator Event Log Indicies**]((https://github.com/Sentry-Wire/SentryWire-FieldManual/blob/main/SentryWire_Field_Manual.md#index-types))
+1. [**Investigator Event Log Indicies**](https://github.com/Sentry-Wire/SentryWire-FieldManual/blob/main/SentryWire_Field_Manual.md#index-types)
 2. [**Investigator Event Log Indicies**](#index-types) https://github.com/Sentry-Wire/SentryWire-FieldManual/blob/main/SentryWire_Field_Manual.md#index-types
 1. [**Example Searches by Event Log Type**](#network-alerts)
 1. [**KQL Query Operators and Syntax**](#kql-searches)
