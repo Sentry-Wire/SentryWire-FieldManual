@@ -5,7 +5,7 @@
 1. [**Investigator Event Log Indicies**](#index-types)
 1. [**Example Searches by Event Log Type**](#network-alerts)
 1. [**KQL Query Operators and Syntax**](#kql-searches)
-1. [**Packet Based Searches(Not Elasticsearch**)](#pcap-searches)
+1. [**Direct Packet Searches**)](#pcap-searches)
 
 
 
